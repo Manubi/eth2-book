@@ -52,9 +52,10 @@ module.exports = {
             '/book/01__consensus/00__index.md',
             '/book/01__consensus/01__origins.md',
             '/book/01__consensus/02__terminology.md',
-            '/book/01__consensus/03__crash-faults.md',
-            '/book/01__consensus/04__byzantine-faults.md',
-            '/book/01__consensus/05__applications.md',
+            '/book/01__consensus/03__simple-consensus.md',
+            '/book/01__consensus/04__crash-faults.md',
+            '/book/01__consensus/05__byzantine-faults.md',
+            '/book/01__consensus/06__applications.md',
           ]
         },
         {
@@ -157,9 +158,10 @@ module.exports = {
             '/zh-CN/book/01__consensus/00__index.md',
             '/zh-CN/book/01__consensus/01__origins.md',
             '/zh-CN/book/01__consensus/02__terminology.md',
-            '/zh-CN/book/01__consensus/03__crash-faults.md',
-            '/zh-CN/book/01__consensus/04__byzantine-faults.md',
-            '/zh-CN/book/01__consensus/05__applications.md',
+            '/zh-CN/book/01__consensus/03__simple-consensus.md',
+            '/zh-CN/book/01__consensus/04__crash-faults.md',
+            '/zh-CN/book/01__consensus/05__byzantine-faults.md',
+            '/zh-CN/book/01__consensus/06__applications.md',
           ]
         },
         {
